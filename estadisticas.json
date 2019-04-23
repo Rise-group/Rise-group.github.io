@@ -1,0 +1,571 @@
+{
+  "date": "Tue Apr 23 09:46:24 COT 2019",
+  "author": "jorgaf",
+  "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
+  "graphs": [
+    {
+      "name": "Areas",
+      "title": "Visualizador Colifri",
+      "tip": "",
+      "nodes": "420",
+      "edges": "1685",
+      "description": "Por: Juan Carlos Duque (RiSE-group. Universidad Eafit)",
+      "imgColorDescription": "",
+      "graphfile": "Areas/Areas.csv",
+      "pdffile": "Areas/Areas.pdf",
+      "comunity_3":"3_Comunidades/3_Comunidades.xlsx",
+      "comunity_5":"5_Comunidades/5_Comunidades.xlsx",
+      "comunity_7":"7_Comunidades/7_Comunidades.xlsx",
+      "browsegraph": "Areas/Areas.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "##### LEYENDAS #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "Verde",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Territorios",
+          "value": "Anarillo",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Salud",
+          "value": "Azul",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Lenguas",
+          "value": "Rojo",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "##### MÉTRICAS #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Average Degree",
+          "value": "8,024",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Average Weighted Degree",
+          "value": "0,691",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Network Diameter",
+          "value": "8,00",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Graph Density",
+          "value": "0,019",
+          "description": "Description for metric 8"
+        }
+      ]
+    },
+    {
+      "name": "7_Comunidades",
+      "title": "Title to 7_Comunidades",
+      "tip": "",
+      "nodes": "420",
+      "edges": "1685",
+      "description": "RiSE-group (Eafit)",
+      "imgColorDescription": "",
+      "graphfile": "7_Comunidades/7_Comunidades.csv",
+      "pdffile": "7_Comunidades/7_Comunidades.pdf",
+      "browsegraph": "7_Comunidades/7_Comunidades.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "##### COMUNIDAD 1 (ROJO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "105 (25,00%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "8,57%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "18,10%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "49,52%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "23,81%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 2 (VERDE FUERTE) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "73 (17,38%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "8,22%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "46,58%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "1,37%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "43,84%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 3 (AZUL CLARO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "52 (12,38%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "9,62%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "53,85%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "15,38%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "21,15%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 4 (AZUL OSCURO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "51 (12,14%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "88,24%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "7,84%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "1,96%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "1,96%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 5 (NARANJA) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "46 (10,95%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "39,13%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "36,96%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "4,35%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "19,57%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 6 (ROSADO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "42 (10,00%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "4,76%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "4,76%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "76,19%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "14,29%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 7 (VERDE PÁLIDO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "21 (5,00%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "9,52%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "23,81%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "42,86%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "23,81%",
+          "description": "Description for metric 2"
+        }
+      ]
+    },
+    {
+      "name": "5_Comunidades",
+      "title": "Title to 5_Comunidades",
+      "tip": "",
+      "nodes": "420",
+      "edges": "1685",
+      "description": "RiSE-group (Eafit)",
+      "imgColorDescription": "",
+      "graphfile": "5_Comunidades/5_Comunidades.csv",
+      "pdffile": "5_Comunidades/5_Comunidades.pdf",
+      "browsegraph": "5_Comunidades/5_Comunidades.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "##### COMUNIDAD 1 (ROJO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "130 (30,95)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "9,23%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "14,62%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "53,85%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "22,31%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 2 (VERDE CLARO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "90 (21,43%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "7,78%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "43,33%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "4,44%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "44,44%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 3 (AMARILLO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "84 (20,00%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "8,33%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "41,67%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "29,76%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "20,24%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 4 (AZUL) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "57 (13,57%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "82,46%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "8,77%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "5,26%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "3,51%",
+          "description": "Description for metric 2"
+        },
+
+        {
+          "name": "##### COMUNIDAD 5 (VERDE OSCURO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "43 (10,24%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "39,53%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "48,84%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "4,65%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "6,98%",
+          "description": "Description for metric 2"
+        }
+      ]
+    },
+    {
+      "name": "3_Comunidades",
+      "title": "Title to 3_Comunidades",
+      "tip": "",
+      "nodes": "420",
+      "edges": "1685",
+      "description": "RiSE-group (Eafit)",
+      "imgColorDescription": "",
+      "graphfile": "3_Comunidades/3_Comunidades.csv",
+      "pdffile": "3_Comunidades/3_Comunidades.pdf",
+      "browsegraph": "3_Comunidades/3_Comunidades.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "##### COMUNIDAD 1 (ROJO) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "243 (57,86%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "9,47%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "25,51%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "41,98%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "23,05%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 2 (VERDE) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "85 (20,24%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "10,59%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "50,59%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "2,35%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "36,47%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "##### COMUNIDAD 3 (AZUL) #####",
+          "value": " ",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Members",
+          "value": "79 (18,81%)",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Salud",
+          "value": "73,42%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Naturaleza",
+          "value": "20,25%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Lenguas",
+          "value": "1,27%",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Territorios",
+          "value": "5,06%",
+          "description": "Description for metric 2"
+        }
+      ]
+    }
+  ]
+}
